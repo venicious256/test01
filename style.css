@@ -1,0 +1,47 @@
+body{
+    background-color:blue ;
+}
+h1{
+    color:indigo;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fruits{
+    color:brown;
+    display: flex;
+    gap: 20px;
+}
+#google{
+    color: white;
+    border-style: solid;
+    background-color: orange;
+    font-size: 40px;
+    text-decoration: none;
+}
+.food{
+    padding-top: 100px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+.wrapper{
+    width: 100px;
+    max-width: 960px;
+    margin: auto;
+}
+.flex-container{
+    display: flex;
+}
+.box{
+    height: 100px;
+    min: width 100px;
+}
+.one{
+background: red;
+}
+.two{
+    background:blue;
+}
+.three{
+    background: green;
+}
